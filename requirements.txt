@@ -1,0 +1,6 @@
+requests
+pyaudio
+pydub
+simpleaudio
+cmudict
+g2p_en
