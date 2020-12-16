@@ -45,3 +45,6 @@ optional arguments:
 * List of 1000 Basic English Words: https://en.wiktionary.org/wiki/Appendix:1000_basic_English_words
 * Audio files of 1000 Basic English words scraped from Longman online dictionary https://www.ldoceonline.com using scrape.py
 * Phoneme recordings from https://github.com/stephengrice/synth-me
+
+* Link to lecture recording
+* https://youtu.be/sMWv5S678kA
